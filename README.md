@@ -28,7 +28,7 @@ The main survey data, the ISSP 2009 (International Social Survey Programme; ZA54
 Meritocracy, education, equality
 
 ## Cite as
-Kwon, H.W. & Erola, J. (2025). Code repository for: Support for Meritocracy and Access to Higher Education. Zenodo. https://zenodo.org/records/15355755
+Kwon, H.W. & Erola, J. (2025). Code repository for: Support for Meritocracy and Access to Higher Education. Zenodo. https://zenodo.org/records/17338097
 
 
 ## License
